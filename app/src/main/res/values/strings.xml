@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bt Connectivity</string>
+    <string name="ble_not_supported">BLE NOT SUPPORTED</string>
+    <string name="title_devices">Title device</string>
+    <string name="error_bluetooth_not_supported">ble not supported</string>
+    <string name="unknown_device">unkowh</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="no_data">no data</string>
+    <string name="unknown_service">unknown sevice</string>
+    <string name="unknown_characteristic" />
+</resources>
